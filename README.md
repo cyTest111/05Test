@@ -1,4 +1,4 @@
 # 05Test
 test
 
-chenyifyinformation.cc&&
+chenyifyinformation.cc$$
